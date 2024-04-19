@@ -1,11 +1,14 @@
 # Jonathan Cho (He/Him)
 - Computer Science Masters at University of Washington
-- Korean born | Washington raised
+- Korea born | Washington raised
 
-Hobbies
+## Hobbies
 - Recently gained interest in fitness (running and lifting)
 - I love to cook meals for people, including myself!
 - I enjoy playing video games as well!
+
+## How to reach me:
+jonathancho99@gmail.com | chojon99@uw.edu
 <!--
 **jcholol/jcholol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
