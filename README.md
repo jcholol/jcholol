@@ -1,25 +1,13 @@
 # Jonathan Cho (He/Him)
-- Computer Science Masters at University of Washington
-- Korea born | Washington raised
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVtcG11NWJ0bHVnaTR3MHpwbnRsdDVoOW1tY210ODFjNGNjZmc1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif)
+- :computer: Current Masters student in Computer Science at University of Washington
+- :school_satchel: Bachelors in Computer Science at University of Washington
+- 📍 Korea born | Washington raised
 
 ## Hobbies
-- Recently gained interest in fitness (running and lifting)
-- I love to cook meals for people, including myself!
-- I enjoy playing video games as well!
+- :muscle: Recently gained interest in fitness (running and lifting)
+- :spaghetti: I love to cook meals for people, including myself!
+- :video_game: I enjoy playing video games as well!
 
 ## How to reach me:
 jonathancho99@gmail.com | chojon99@uw.edu
-<!--
-**jcholol/jcholol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a mobile application using Swift 
-- 🌱 I’m currently learning Mobile Computing and Software Architecture
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: jonathancho99@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
