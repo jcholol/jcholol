@@ -6,8 +6,8 @@
 
 ## Hobbies
 - :muscle: Recently gained interest in fitness (running and lifting)
-- :spaghetti: I love to cook meals for people, including myself!
-- :video_game: I enjoy playing video games as well!
+- :spaghetti: I love to cook meals for people, including myself
+- :video_game: I enjoy playing video games as well
 
 ## How to reach me:
 jonathancho99@gmail.com | chojon99@uw.edu
